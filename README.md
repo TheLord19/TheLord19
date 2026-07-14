@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Location](https://img.shields.io/badge/📍-Navi%20Mumbai%2C%20India-6d28d9?style=for-the-badge&labelColor=1a1a2e)](https://www.google.com/maps/place/Navi+Mumbai)
+[![Location](https://img.shields.io/badge/📍-Mumbai%2C%20India-6d28d9?style=for-the-badge&labelColor=1a1a2e)](https://www.google.com/maps/place/Navi+Mumbai)
 
 </div>
 
