@@ -1,186 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Soham%20Kapse&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Dev%20%7C%20AI%20Builder%20%7C%20Cybersecurity%20Nerd&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,100:0a0a0f&height=20&section=header"/>
+</picture>
 
-</div>
+```
+ ___  ___  _______   ___       ________  ________  ________  ________     
+|\  \|\  \|\  ___ \ |\  \     |\   __  \|\   __  \|\   ___ \|\_____  \    
+\ \  \\\  \ \   __/|\ \  \    \ \  \|\  \ \  \|\  \ \  \_|\ \|____|\ /_   
+ \ \   __  \ \  \_|/_\ \  \    \ \  \\\  \ \   _  _\ \  \ \\ \    \|\  \  
+  \ \  \ \  \ \  \_|\ \ \  \____\ \  \\\  \ \  \\  \\ \  \_\\ \  __\_\  \ 
+   \ \__\ \__\ \_______\ \_______\ \_______\ \__\\ _\\ \_______\\_______  \
+    \|__|\|__|\|_______|\|_______|\|_______|\|__|\|__|\|_______\|_______| /
+                                                                       |__|  
+```
 
-<div align="center">
+**Soham Kapse · @TheLord19**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%40TheLord19+%F0%9F%91%8B;Full-Stack+Engineer+%F0%9F%9A%80;AI+%26+ML+Builder+%F0%9F%A4%96;Blockchain+Explorer+%E2%9B%93;Cybersecurity+Nerd+%F0%9F%94%90;Let's+build+something+awesome!+%F0%9F%94%A5)](https://git.io/typing-svg)
+*Full-Stack Engineer · AI Builder · Cybersecurity · Mumbai, India*
 
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Location](https://img.shields.io/badge/📍-Mumbai%2C%20India-6d28d9?style=for-the-badge&labelColor=1a1a2e)](https://www.google.com/maps/place/Navi+Mumbai)
+[![Email](https://img.shields.io/badge/sohamk2223%40gmail.com-0a0a0f?style=flat-square&logo=gmail&logoColor=a78bfa)](mailto:sohamk2223@gmail.com)
+[![GitHub](https://img.shields.io/badge/TheLord19-0a0a0f?style=flat-square&logo=github&logoColor=a78bfa)](https://github.com/TheLord19)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## Who I Am
+
+B.Sc CS (Software Engineering) with Cybersecurity Honors at University of Mumbai. CGPA 8.9. I build AI systems that work in production — RAG pipelines, computer vision diagnostics, full-stack platforms — and I have a habit of shipping things fast enough to win hackathons.
 
 ```typescript
 const soham = {
-  name:        "Soham Kapse",
-  alias:       "@TheLord19",
-  education:   "B.Sc CS (Software Engg) · Cybersecurity Honors @ Uni of Mumbai",
+  education:   "B.Sc CS · Software Engineering + Cybersecurity Honors · Uni of Mumbai",
   cgpa:        8.9,
-  location:    "Navi Mumbai, India 🇮🇳",
-  pronouns:    "he/him",
+  location:    "Navi Mumbai, India",
 
   ai: {
     interests:    ["LLMs", "RAG Systems", "CNNs", "Computer Vision", "NLP"],
     experience:   ["Ensemble RAG", "Multi-modal AI", "Vector DBs", "Fine-tuning"],
     frameworks:   ["LangChain", "HuggingFace", "TensorFlow", "OpenCV"],
-    currentFocus: "Building AI systems that actually work in production 🧠",
   },
 
-  blockchain: {
-    interests:    ["Smart Contracts", "DeFi", "Web3", "Tokenomics"],
-    exposure:     ["Solidity basics", "Ethereum", "Blockchain architecture"],
-  },
+  blockchain: ["Smart Contracts", "DeFi", "Web3", "Solidity basics", "Ethereum"],
 
-  currentlyLearning: ["Advanced LLM Architectures", "MERN at scale", "Solidity"],
-  openTo:      "Collaborations · Hackathons · AI/Blockchain projects",
-
-  funFact: "I solve Rubik's Cubes (7 types) faster than I fall asleep — and I fall asleep fast 💤"
+  currentlyBuilding: "AI systems that scale past the demo stage",
+  funFact: "I solve 7 types of Rubik's Cubes. Faster than I fall asleep — and I fall asleep fast."
 };
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## Hackathon Record — 6 Wins
 
-<div align="center">
-
-**Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,ts,python,dart&theme=dark)](https://skillicons.dev)
-
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,jquery&theme=dark)](https://skillicons.dev)
-
-**Backend & Databases**
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
-
-**Tools & Security**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,linux&theme=dark)](https://skillicons.dev)
-
-| 🔐 Security | ☁️ Cloud & AI |
-|:-----------:|:-------------:|
-| BurpSuite · Metasploit | IBM Cloud · RAG · CNNs |
-
-</div>
+| Result | Event |
+|--------|-------|
+| **National Rank 4 · Mumbai Zonal Winner** | HackArena 2.0 |
+| **1st Place** | CodeCrafters 3.0 |
+| **Best Agentic AI** | Breaking Enigma |
+| **2nd Place** | HackHive 2.0 |
+| **2nd Place** | INNOV8 3.0 |
+| **3rd Place** | HackNiche |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦴 Orthomedi — Multi RAG System
+### Orthomedi — Ensemble RAG Diagnostic System
 `AI` `CNN` `Full-Stack` `Medical`
 
-An ensemble RAG diagnostic tool that combines **CNNs for X-ray image analysis** with NLP-based symptom parsing to assist orthopedic professionals.
+An ensemble RAG system combining CNNs for X-ray image analysis with NLP-based symptom parsing to assist orthopedic professionals. 92% accuracy correlating X-rays with patient records. Deployed as a secure full-stack web app.
 
-- 🎯 **92% accuracy** correlating X-rays with patient data
-- 🔗 Retrieval pipeline grounded in a curated orthopedic database
-- 🏥 Deployed as a secure full-stack web app for clinical use
-- 🧠 Combines vision models + text models for holistic assessment
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Psai-Power Inc — Startup Website
-`Node.js` `Express` `SSR` `B2B`
-
-Engineered the **entire full-stack website solo** for a power & energy startup targeting B2B enterprise clients.
-
-- ⚙️ Robust REST API architecture with Express.js
-- 🖥️ Server-side rendering via EJS/Pug for SEO + fast load
-- 📱 Fully responsive, mobile-first design
-- 🔌 Built to communicate 24/7 emergency support services
-
-</td>
-</tr>
-</table>
+→ [orthopedic-rag.vercel.app](https://orthopedic-rag.vercel.app)
 
 ---
 
-## 💼 Experience
+### Flow Guardian — Cognitive Observability System
+`Python` `ONNX` `YOLOv8` `MediaPipe` `React`
 
-<table>
-<tr>
-<td>⛓️ <b>Blockchain & AI Intern</b></td>
-<td>Virtual Galaxy Ltd</td>
-<td><code>2024</code></td>
-</tr>
-<tr>
-<td>🤖 <b>AI Intern</b></td>
-<td>IBM</td>
-<td><code>Jun 2024 – Jul 2024</code></td>
-</tr>
-<tr>
-<td>🔐 <b>Cybersecurity Intern</b></td>
-<td>Cyber Secured India Inc.</td>
-<td><code>Jan 2024 – Mar 2024</code></td>
-</tr>
-</table>
+1st Place, CodeCrafters 3.0. An OS-level system that uses sensor fusion and on-device ML to detect focus, fatigue, and confusion states in real-time — tracking keyboard rhythm, mouse entropy, and eye closure (PERCLOS) — then adapts your digital environment accordingly. No cloud. No privacy compromise.
 
 ---
 
-## 🏆 Achievements
+### Psai-Power Inc — B2B Energy Platform
+`Node.js` `Express` `SSR` `HTML`
 
-<div align="center">
+Full-stack website built solo for a power & energy startup. REST API with Express, server-side rendering for SEO, fully responsive. Live in production.
 
-|  | Achievement |
-|:---:|:---|
-| 🥈 | **2nd Place** — HackHive 2.0 Hackathon |
-| 🥈 | **2nd Place** — INNOV8 3.0 Hackathon |
-| 🌩️ | **Silver Elite** — Cloud Computing NPTEL *(81%)* |
-| 💻 | **150+ problems** solved across coding platforms |
-
-</div>
+→ [psai-power-website.vercel.app](https://psai-power-website.vercel.app)
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
 
-<div align="center">
+**Languages** — C++, Java, JavaScript, TypeScript, Python, Dart
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheLord19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLord19&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=6" height="165"/>
+**Frontend** — React, HTML, CSS, Tailwind, jQuery
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=TheLord19&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+**Backend & Data** — Node.js, Express, MongoDB, MySQL, PostgreSQL
 
-</div>
+**AI/ML** — LangChain, HuggingFace, TensorFlow, OpenCV, ONNX, YOLOv8, MediaPipe
+
+**Security** — BurpSuite, Metasploit, Linux
+
+**Cloud** — IBM Cloud, Vercel
 
 ---
 
-## 🎯 Beyond the Terminal
+## Experience
 
-<div align="center">
+| Role | Company | When |
+|------|---------|------|
+| Blockchain & AI Intern | Virtual Galaxy Ltd | 2024 |
+| AI Intern | IBM | Jun – Jul 2024 |
+| Cybersecurity Intern | Cyber Secured India Inc. | Jan – Mar 2024 |
 
-🧩 **Rubik's Cubes** *(7 types — yes, really)*  &emsp; 🚴 **Cycling** &emsp; 🎸 **Guitar** &emsp; 🏊 **Swimming**
+---
 
-</div>
+## Other Achievements
+
+**Silver Elite** — Cloud Computing, NPTEL *(81%)*  
+**150+ problems** solved across coding platforms
+
+---
+
+## Beyond the Terminal
+
+Rubik's Cubes *(7 types)* · Cycling · Guitar · Swimming
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+*If you've read this far — we should build something together.*
 
-*If you've read this far — we should build something together.* 🚀
-
-**[📧 Email Me](mailto:sohamk2223@gmail.com)** · **[🐙 GitHub](https://github.com/TheLord19)**
+**[Email](mailto:sohamk2223@gmail.com) · [GitHub](https://github.com/TheLord19)**
 
 </div>
